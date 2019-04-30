@@ -2,9 +2,12 @@
 
 ## How to use
 
-1. Download ```sdr-clean.bat``` and/or ```system-clean.bat```, and put it on your kindle's root directory, where you can see a ```documents``` directory.
+1. Download ```sdr-clean.bat``` , and put it on your kindle's root directory, where you can see a ```documents``` directory besides it.
 2. Run ```sdr-clean.bat``` and hit any key to remove all .sdr directories
-3. Run ```system-clean.bat``` to clean up the system cache
+
+**Note**
+
+You'll lose all reading progress after doing so.
 
 ## Why
 
